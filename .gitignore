@@ -29,6 +29,9 @@ cmake-build-release
 cmake-build-relwithdebinfo
 packaging/Output/*
 
+# Ignored for size
 JUCE
+Assets
 
+# Build folders
 build
